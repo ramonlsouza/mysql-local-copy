@@ -1,0 +1,9 @@
+prod_database_host=[prod-db-host]
+prod_database_name="[prod-db-name]"
+prod_database_user="[prod-db-username]"
+prod_database_pass="[prod-db-password]"
+
+local_database_host="[local-db-host]"
+local_database_name="[local-db-name]"
+local_database_user="[local-db-username]"
+local_database_pass="[local-db-pass]"
